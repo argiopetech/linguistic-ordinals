@@ -5,12 +5,12 @@ name:                linguistic-ordinals
 --                   | | | +--- code changes with no API change
 version:             0.1.0.0
 
-synopsis:            Provides string formatting for expressing Integral types as linguistic ordinals (1st, 2nd, 3rd, etc)
+synopsis:            Express Integral types as linguistic ordinals (1st, 2nd, 3rd, etc)
 
 description:
     A simple library which provides suffixes for integral values, thereby effectively rendering them ordinal (from a linguistic standpoint).
 
- See also <http://en.wikipedia.org/wiki/Ordinal_number_(linguistics) the Wikipedia summary of linguistic ordinals>.
+    See also <http://en.wikipedia.org/wiki/Ordinal_number_(linguistics) the Wikipedia summary of linguistic ordinals>.
 
 homepage:            http://github.com/argiopetech/linguistic-ordinals
 bug-reports:         http://github.com/argiopetech/linguistic-ordinals/issues
