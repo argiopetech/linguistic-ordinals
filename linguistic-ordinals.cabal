@@ -3,7 +3,7 @@ name:                linguistic-ordinals
 -- PVP summary:      +-+------- breaking API changes
 --                   | | +----- non-breaking API additions
 --                   | | | +--- code changes with no API change
-version:             0.1.0.1
+version:             0.1.0.2
 
 synopsis:            Express Integral types as linguistic ordinals (1st, 2nd, 3rd, etc)
 
